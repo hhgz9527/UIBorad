@@ -10,4 +10,9 @@
 
 @interface Material : NSObject
 
+@property (strong) NSString *title;
+@property (strong) NSImage *thumbImage;
+
+- (id)initWithTitle:(NSString *)title thumbImage:(NSImage *)thumbImage;
+
 @end

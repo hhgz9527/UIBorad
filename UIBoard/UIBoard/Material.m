@@ -10,4 +10,13 @@
 
 @implementation Material
 
+- (id)initWithTitle:(NSString *)title thumbImage:(NSImage *)thumbImage {
+    self = [super init];
+    if (self) {
+        _title = title;
+        _thumbImage = thumbImage;
+    }
+    return self;
+}
+
 @end
