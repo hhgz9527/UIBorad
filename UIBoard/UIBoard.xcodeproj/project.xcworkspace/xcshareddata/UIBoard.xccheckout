@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3929765C-2F32-4511-ACA5-54665E82C489</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UIBoard</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4B8A465F7CBB73B74B33801634A7CFDE965A67CF</key>
+		<string>https://github.com/hhgz9527/UIBorad.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UIBoard/UIBoard.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4B8A465F7CBB73B74B33801634A7CFDE965A67CF</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hhgz9527/UIBorad.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4B8A465F7CBB73B74B33801634A7CFDE965A67CF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4B8A465F7CBB73B74B33801634A7CFDE965A67CF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UIBorad</string>
+		</dict>
+	</array>
+</dict>
+</plist>
